@@ -112,9 +112,9 @@ DECLARE @start_time DATETIME, @end_time DATETIME, @batch_start_time DATETIME, @b
 
 		SET @start_time = GETDATE();
 		PRINT '>> Truncating Table: bronze.erp_px_cat_g1v2';
-		TRUNCATE TABLE bronze.erp_px_cat_giv2;
+		TRUNCATE TABLE bronze.erp_px_cat_g1v2;
 		PRINT '>> Inserting Data Into: bronze.erp_px_cat_g1v2';
-		BULK INSERT bronze.erp_px_cat_giv2
+		BULK INSERT bronze.erp_px_cat_g1v2
 		FROM 'C:\Users\karan\Downloads\sql-data-warehouse-project\sql-data-warehouse-project\datasets\source_erp\PX_CAT_G1V2.csv'
 		WITH (
 			FIRSTROW = 2,
