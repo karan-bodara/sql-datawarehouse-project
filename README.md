@@ -5,6 +5,22 @@ Welcome to the **Data Warehouse and Analytics Project** repository! 🚀
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
 ---
+## Installation
+
+Prerequisites :-
+Before proceeding with the setup, ensure you have the following installed:
+SQL Server Management Studio (SSMS)
+
+Setup Instructions :-
+1. Install SSMS if not already installed. You can download it from the official Microsoft website.
+2. Open SSMS and connect to your SQL Server instance.
+3. Upload all the provided SQL files to your database.
+4. Execute the scripts in the correct order to set up the data warehouse.
+5. Run the queries to verify the setup and view the results.
+
+---
+
+---
 ## 🏗️ Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
