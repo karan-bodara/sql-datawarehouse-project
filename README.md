@@ -19,8 +19,6 @@ Setup Instructions :-
 5. Run the queries to verify the setup and view the results.
 
 ---
-
----
 ## 🏗️ Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
