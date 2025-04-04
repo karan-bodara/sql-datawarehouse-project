@@ -109,5 +109,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-I am a data enthusiast passionate about transforming raw data into actionable insights. Skilled in modern data architectures, analytics, and storytelling through dashboards.
-
+As a data enthusiast, I specialize in building efficient data systems, uncovering insights, and solving business problems through data-driven solutions. I’m committed to delivering high-quality, reliable results that add real value to your projects.
