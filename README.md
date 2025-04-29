@@ -103,6 +103,13 @@ data-warehouse-project/
 ```
 ---
 
+## 🔗Related Repository
+This warehouse is used in sql data analysis project & it to perform end-to-end analysis—identifying trends, extracting insights, and answering key business questions.---
+
+👉[SQL Data Analysis Project](https://github.com/karan-bodara/sql-data-analysis-project)  
+
+---
+
 ## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
