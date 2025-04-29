@@ -106,7 +106,7 @@ data-warehouse-project/
 ## 🔗Related Repository
 This warehouse is used in sql data analysis project & it to perform end-to-end analysis—identifying trends, extracting insights, and answering key business questions.---
 
-👉[SQL Data Analysis Project](https://github.com/karan-bodara/sql-data-analysis-project)  
+👉 [SQL Data Analysis Project](https://github.com/karan-bodara/sql-data-analysis-project)  
 
 ---
 
